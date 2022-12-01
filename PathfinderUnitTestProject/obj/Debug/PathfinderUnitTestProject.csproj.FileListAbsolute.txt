@@ -1,0 +1,52 @@
+E:\Programming\cs\Genetic Pathfinder latest\Genetic Pathfinder\PathfinderUnitTestProject\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+E:\Programming\cs\Genetic Pathfinder latest\Genetic Pathfinder\PathfinderUnitTestProject\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+E:\Programming\cs\Genetic Pathfinder latest\Genetic Pathfinder\PathfinderUnitTestProject\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+E:\Programming\cs\Genetic Pathfinder latest\Genetic Pathfinder\PathfinderUnitTestProject\bin\Debug\ru\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.resources.dll
+E:\Programming\cs\Genetic Pathfinder latest\Genetic Pathfinder\PathfinderUnitTestProject\bin\Debug\ru\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.resources.dll
+E:\Programming\cs\Genetic Pathfinder latest\Genetic Pathfinder\PathfinderUnitTestProject\bin\Debug\ru\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+E:\Programming\cs\Genetic Pathfinder latest\Genetic Pathfinder\PathfinderUnitTestProject\bin\Debug\PathfinderUnitTestProject.dll
+E:\Programming\cs\Genetic Pathfinder latest\Genetic Pathfinder\PathfinderUnitTestProject\bin\Debug\PathfinderUnitTestProject.pdb
+E:\Programming\cs\Genetic Pathfinder latest\Genetic Pathfinder\PathfinderUnitTestProject\bin\Debug\Genetic Pathfinder.exe
+E:\Programming\cs\Genetic Pathfinder latest\Genetic Pathfinder\PathfinderUnitTestProject\bin\Debug\Microsoft.QualityTools.Testing.Fakes.dll
+E:\Programming\cs\Genetic Pathfinder latest\Genetic Pathfinder\PathfinderUnitTestProject\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+E:\Programming\cs\Genetic Pathfinder latest\Genetic Pathfinder\PathfinderUnitTestProject\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+E:\Programming\cs\Genetic Pathfinder latest\Genetic Pathfinder\PathfinderUnitTestProject\bin\Debug\Genetic Pathfinder.pdb
+E:\Programming\cs\Genetic Pathfinder latest\Genetic Pathfinder\PathfinderUnitTestProject\bin\Debug\Genetic Pathfinder.exe.config
+E:\Programming\cs\Genetic Pathfinder latest\Genetic Pathfinder\PathfinderUnitTestProject\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+E:\Programming\cs\Genetic Pathfinder latest\Genetic Pathfinder\PathfinderUnitTestProject\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+E:\Programming\cs\Genetic Pathfinder latest\Genetic Pathfinder\PathfinderUnitTestProject\bin\Debug\ru\Microsoft.QualityTools.Testing.Fakes.resources.dll
+E:\Programming\cs\Genetic Pathfinder latest\Genetic Pathfinder\PathfinderUnitTestProject\obj\Debug\PathfinderUnitTestProject.csprojFakesResolveAssemblyReference.cache
+E:\Programming\cs\Genetic Pathfinder latest\Genetic Pathfinder\PathfinderUnitTestProject\obj\Debug\Fakes\fakes.args
+E:\Programming\cs\Genetic Pathfinder latest\Genetic Pathfinder\PathfinderUnitTestProject\obj\Debug\Fakes\gp\b\Accessibility.dll
+E:\Programming\cs\Genetic Pathfinder latest\Genetic Pathfinder\PathfinderUnitTestProject\obj\Debug\Fakes\gp\b\Genetic Pathfinder.exe
+E:\Programming\cs\Genetic Pathfinder latest\Genetic Pathfinder\PathfinderUnitTestProject\obj\Debug\Fakes\gp\b\Genetic Pathfinder.exe.config
+E:\Programming\cs\Genetic Pathfinder latest\Genetic Pathfinder\PathfinderUnitTestProject\obj\Debug\Fakes\gp\b\Genetic Pathfinder.Fakes.dll
+E:\Programming\cs\Genetic Pathfinder latest\Genetic Pathfinder\PathfinderUnitTestProject\obj\Debug\Fakes\gp\b\Genetic Pathfinder.Fakes.fakesconfig
+E:\Programming\cs\Genetic Pathfinder latest\Genetic Pathfinder\PathfinderUnitTestProject\obj\Debug\Fakes\gp\b\Genetic Pathfinder.Fakes.pdb
+E:\Programming\cs\Genetic Pathfinder latest\Genetic Pathfinder\PathfinderUnitTestProject\obj\Debug\Fakes\gp\b\Genetic Pathfinder.Fakes.xml
+E:\Programming\cs\Genetic Pathfinder latest\Genetic Pathfinder\PathfinderUnitTestProject\obj\Debug\Fakes\gp\b\Genetic Pathfinder.pdb
+E:\Programming\cs\Genetic Pathfinder latest\Genetic Pathfinder\PathfinderUnitTestProject\obj\Debug\Fakes\gp\b\Microsoft.QualityTools.Testing.Fakes.dll
+E:\Programming\cs\Genetic Pathfinder latest\Genetic Pathfinder\PathfinderUnitTestProject\obj\Debug\Fakes\gp\b\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+E:\Programming\cs\Genetic Pathfinder latest\Genetic Pathfinder\PathfinderUnitTestProject\obj\Debug\Fakes\gp\b\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+E:\Programming\cs\Genetic Pathfinder latest\Genetic Pathfinder\PathfinderUnitTestProject\obj\Debug\Fakes\gp\b\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+E:\Programming\cs\Genetic Pathfinder latest\Genetic Pathfinder\PathfinderUnitTestProject\obj\Debug\Fakes\gp\b\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+E:\Programming\cs\Genetic Pathfinder latest\Genetic Pathfinder\PathfinderUnitTestProject\obj\Debug\Fakes\gp\b\ru\Microsoft.QualityTools.Testing.Fakes.resources.dll
+E:\Programming\cs\Genetic Pathfinder latest\Genetic Pathfinder\PathfinderUnitTestProject\obj\Debug\Fakes\gp\f.ah
+E:\Programming\cs\Genetic Pathfinder latest\Genetic Pathfinder\PathfinderUnitTestProject\obj\Debug\Fakes\gp\f.ch
+E:\Programming\cs\Genetic Pathfinder latest\Genetic Pathfinder\PathfinderUnitTestProject\obj\Debug\Fakes\gp\f.cs
+E:\Programming\cs\Genetic Pathfinder latest\Genetic Pathfinder\PathfinderUnitTestProject\obj\Debug\Fakes\gp\f.csproj
+E:\Programming\cs\Genetic Pathfinder latest\Genetic Pathfinder\PathfinderUnitTestProject\obj\Debug\Fakes\gp\f.fakes
+E:\Programming\cs\Genetic Pathfinder latest\Genetic Pathfinder\PathfinderUnitTestProject\obj\Debug\Fakes\gp\f.fakesconfig
+E:\Programming\cs\Genetic Pathfinder latest\Genetic Pathfinder\PathfinderUnitTestProject\obj\Debug\Fakes\gp\o\f.csproj.CopyComplete
+E:\Programming\cs\Genetic Pathfinder latest\Genetic Pathfinder\PathfinderUnitTestProject\obj\Debug\Fakes\gp\o\f.csproj.CoreCompileInputs.cache
+E:\Programming\cs\Genetic Pathfinder latest\Genetic Pathfinder\PathfinderUnitTestProject\obj\Debug\Fakes\gp\o\f.csproj.FileListAbsolute.txt
+E:\Programming\cs\Genetic Pathfinder latest\Genetic Pathfinder\PathfinderUnitTestProject\obj\Debug\Fakes\gp\o\f.csprojResolveAssemblyReference.cache
+E:\Programming\cs\Genetic Pathfinder latest\Genetic Pathfinder\PathfinderUnitTestProject\obj\Debug\Fakes\gp\o\Genetic Pathfinder.Fakes.dll
+E:\Programming\cs\Genetic Pathfinder latest\Genetic Pathfinder\PathfinderUnitTestProject\obj\Debug\Fakes\gp\o\Genetic Pathfinder.Fakes.pdb
+E:\Programming\cs\Genetic Pathfinder latest\Genetic Pathfinder\PathfinderUnitTestProject\obj\Debug\PathfinderUnitTestProject.csproj.CoreCompileInputs.cache
+E:\Programming\cs\Genetic Pathfinder latest\Genetic Pathfinder\PathfinderUnitTestProject\obj\Debug\PathfinderUnitTestProject.dll
+E:\Programming\cs\Genetic Pathfinder latest\Genetic Pathfinder\PathfinderUnitTestProject\obj\Debug\PathfinderUnitTestProject.pdb
+E:\Programming\cs\Genetic Pathfinder latest\Genetic Pathfinder\PathfinderUnitTestProject\bin\Debug\Genetic Pathfinder.Fakes.dll
+E:\Programming\cs\Genetic Pathfinder latest\Genetic Pathfinder\PathfinderUnitTestProject\bin\Debug\Genetic Pathfinder.Fakes.xml
+E:\Programming\cs\Genetic Pathfinder latest\Genetic Pathfinder\PathfinderUnitTestProject\obj\Debug\PathfinderUnitTestProject.csprojResolveAssemblyReference.cache
+E:\Programming\cs\Genetic Pathfinder latest\Genetic Pathfinder\PathfinderUnitTestProject\bin\Debug\Genetic Pathfinder.Fakes.fakesconfig
